@@ -42,3 +42,5 @@ Synthetic data tests the model’s ability to integrate random patterns.
 ## Use Case: Synthetic Data Integration
 
 In the test script (test_iiiit.py), the model processes 1000 samples of random data across 20 nodes and 5 layers. Over 100 epochs, (\phi) stabilizes, indicating the network’s evolving integration capacity. A plot visualizes this progression, offering insights into synthetic consciousness dynamics.
+
+# Blog and Contacts - https://innerinetcompany.com/2025/03/02/iiiit-inner-i-integrated-information-theory-with-phi-%cf%86%cf%86/
